@@ -1,16 +1,29 @@
 body * {
     box-sizing: border-box;
-    border: dotted 1px #CCC;
-    width: 50vh;
-    height: 50vh;
-    padding: 10px;
-    margin: 10px;
+    
 }
 
 body {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Arial, Calibri, sans-serif;
 }
 
-/*
-Add some style blocks below this line to style the card.
-*/
+body{
+    border: dotted 1px #CCC;
+    width: 63vh;
+    height: 70vh;
+    padding: 0px;
+    margin: 10px;
+}
+
+.Card1{
+    padding: 10px;
+
+}
+
+.text1{
+    padding: 15px;
+
+
+}
+
+
