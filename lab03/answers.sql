@@ -68,16 +68,6 @@ DELETE FROM bookmarks WHERE post_id = 221;
 
 
 -- Exercise 13
-UPDATE table_name
-SET column1 = value1,
-    column2 = value2,
-    ...
-WHERE condition;
-
--- specific example:
-UPDATE posts
-SET caption = 'This is my dog' 
-WHERE id = 3;
 
 UPDATE users SET email = 'knick2022@gmail.com' WHERE username = nicholas_khan;
 
