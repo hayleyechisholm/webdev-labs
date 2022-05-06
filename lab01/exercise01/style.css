@@ -1,0 +1,29 @@
+body * {
+    box-sizing: border-box;
+    
+}
+
+body {
+    font-family: Arial, Calibri, sans-serif;
+}
+
+body{
+    border: dotted 1px #CCC;
+    width: 63vh;
+    height: 70vh;
+    padding: 0px;
+    margin: 10px;
+}
+
+.Card1{
+    padding: 10px;
+
+}
+
+.text1{
+    padding: 15px;
+
+
+}
+
+
